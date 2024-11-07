@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-bice-two-44.vercel.app/](https://portfolio-bice-two-44.vercel.app/)
+
 
 - 📫 How to reach me **youvalsingh40@gmail.com**
 
